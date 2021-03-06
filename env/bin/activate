@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/media/share/Programming/async_blog/env"
+VIRTUAL_ENV="/media/share/Programming/aio_blog/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
