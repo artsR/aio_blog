@@ -1,0 +1,9 @@
+postgres:
+        database: aio_blog
+        user: aio_blog_user
+        password: aio_blog_secret_string
+        host: localhost
+        port: 5432
+        minsize: 1
+        maxsize: 5
+
